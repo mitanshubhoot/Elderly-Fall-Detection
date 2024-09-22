@@ -1,0 +1,2 @@
+# include all files that should not be pushed to the remote repository
+/bin/*
